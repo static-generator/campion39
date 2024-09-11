@@ -3,8 +3,7 @@
 > **San Juan, Iriga City**
 ---
 My Hobbies
-> Playing Online Games
-
-> Reading Books
-
-> Playing Table Tennis
+- Playing Online Games
+- Reading Books
+- Playing Table Tennis
+  
