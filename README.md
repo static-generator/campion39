@@ -5,3 +5,6 @@
 My Hobbies
 > Playing Online Games
 
+> Reading Books
+
+> Playing Table Tennis
