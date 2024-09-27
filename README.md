@@ -2,9 +2,16 @@
  *Charles Liam A. Turiano*
 > **San Juan, Iriga City**
 
-My Hobbies
+"The Only Thing We’re Allowed To Do Is Believe That We Won’t Regret The Choice We Made."
+
+**My Hobbies**
 - Playing Online Games
 - Reading Books
-- Playing Table Tennis
 - Listening to Music
-  
+
+**Sports**
+- Basketball
+- Table Tennis
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7KW1AtQKFToSoF1kmyk2wE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
